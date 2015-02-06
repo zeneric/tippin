@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>560AF45D-A7A1-4DA0-B375-64CE725D68F9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>tippin</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0223E29845D2CFDFA59E508B3E4757C6AB0C7BCE</key>
+		<string>https://github.com/zeneric/tippin.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>tippin.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0223E29845D2CFDFA59E508B3E4757C6AB0C7BCE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zeneric/tippin.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0223E29845D2CFDFA59E508B3E4757C6AB0C7BCE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0223E29845D2CFDFA59E508B3E4757C6AB0C7BCE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tippin</string>
+		</dict>
+	</array>
+</dict>
+</plist>
